@@ -13,7 +13,7 @@ Database:
 NoSQL
 
 Frameworks:
-AngularJS
+AngularJS,
 Foundation
 
 Platform:
@@ -22,6 +22,6 @@ NodeJS
 Server:
 Sails
 
-3. Як зробити копію проекта і почати з ним працюватидетально розписано у наступній статті: help.github.com/articles/fork-a-repo.
+  3.  Щоб зробити копію проекта і почати з ним працюватидетально розписано у наступній статті: help.github.com/articles/fork-a-repo.
 
 
