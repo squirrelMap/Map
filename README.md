@@ -22,7 +22,6 @@ NodeJS
 Server:
 Sails
 
-
 3. Як зробити копію проекта і почати з ним працюватидетально розписано у наступній статті: help.github.com/articles/fork-a-repo.
 
 
