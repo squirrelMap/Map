@@ -2,59 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="990fe3b8-ea22-4009-b614-b54c4efb05fe" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/READMEFoudation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view1/view1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view1/view1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view1/view1_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view2/view2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view2/view2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/view2/view2_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/photoshop/3.free-flat-minimal-psd-mockup.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/photoshop/apple-macbook-pro-retina-flat-design-front-view-vector-psd-mockup-1024x638.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/photoshop/feat-01-03.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/robots.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/.npmignore" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/.npmignore" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/.npmignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/jasmine/node_modules/jasmine-core/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/jasmine/node_modules/jasmine-core/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/cryptiles/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/.travis.yml" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/LICENSE" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/LICENSE" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/MIT-LICENSE.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/Makefile" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/Makefile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/README.md" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/README.md" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/adm-zip.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/adm-zip.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/constants.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/constants.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/methods/deflater.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/methods/deflater.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/headers/entryHeader.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/headers/entryHeader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/errors.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/errors.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/lib/escape.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/lib/escape.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/escaper.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/escaper.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/fattr.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/fattr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden.txt" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden_readonly.txt" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/hidden_readonly.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/headers/index.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/headers/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/methods/index.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/methods/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/index.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/index.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/lib/index.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/lib/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/index.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/methods/inflater.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/methods/inflater.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/headers/mainHeader.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/headers/mainHeader.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/readonly.txt" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/readonly.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/.idea/scopes/scope_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/somefile.txt" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/test/assets/attributes_test/New folder/somefile.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test1.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test1.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test2.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test3.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/request/node_modules/hawk/node_modules/hoek/test/modules/test3.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/utils.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/util/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/zipEntry.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/zipEntry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/zipFile.js" afterPath="$PROJECT_DIR$/node_modules/protractor/node_modules/adm-zip/zipFile.js" />
     </list>
     <ignored path="squirrelsMaps.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -78,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2646">
+            <state vertical-scroll-proportion="-8.0" vertical-offset="702" max-vertical-offset="2646">
               <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
               <folding />
             </state>
@@ -108,10 +57,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/app.js">
+      <file leaf-file-name="menuScript.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/menuScript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
@@ -121,7 +70,7 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="162">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -222,20 +171,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="squirrelsMaps" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Map" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -315,6 +250,7 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.255796" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -322,7 +258,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -692,10 +627,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.js">
+    <entry file="file://$PROJECT_DIR$/stylesheets/buttonsSoc.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/myStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2622" max-vertical-offset="4878">
+          <caret line="168" column="21" selection-start-line="168" selection-start-column="21" selection-end-line="168" selection-end-column="21" />
           <folding />
         </state>
       </provider>
@@ -710,10 +652,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/buttonsSoc.css">
+    <entry file="file://$PROJECT_DIR$/app/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
+        <state vertical-scroll-proportion="-8.0" vertical-offset="702" max-vertical-offset="2646">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="108">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -725,18 +676,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/myStyle.css">
+    <entry file="file://$PROJECT_DIR$/app/menuScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2622" max-vertical-offset="4878">
-          <caret line="168" column="21" selection-start-line="168" selection-start-column="21" selection-end-line="168" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="918" max-vertical-offset="2646">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="618">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
