@@ -1,26 +1,29 @@
-# map
+# Foundation Compass Template
 
-1. Мета проекту:
-Створити інтерактивну web мапу КПІ, що вміє масштабувати свій інтерфес на різну роздільну здатність екранів (ПК, планшети, смартфони, ін.).
+The easiest way to get started with Foundation + Compass.
 
+## Requirements
 
-2. Використовуванні технології:
+  * Ruby 1.9+
+  * [Node.js](http://nodejs.org)
+  * [compass](http://compass-style.org/): `gem install compass`
+  * [bower](http://bower.io): `npm install bower -g`
 
-Program language:
-JavaScript
+## Quickstart
 
-Database:
-NoSQL
+  * [Download this starter compass project and unzip it](https://github.com/zurb/foundation-compass-template/archive/master.zip)
+  * Run `bower install` to install the latest version of Foundation
+  
+Then when you're working on your project, just run the following command:
 
-Frameworks:
-AngularJS,
-Foundation
+```bash
+bundle exec compass watch
+```
 
-Platform:
-NodeJS
+## Upgrading
 
-Server:
-Sails
+If you'd like to upgrade to a newer version of Foundation down the road just run:
 
-  3.  Щоб зробити копію проекта і почати з ним працювати детально розписано у наступній статті: help.github.com/articles/fork-a-repo.
-
+```bash
+bower update
+```
