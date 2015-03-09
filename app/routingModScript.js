@@ -21,3 +21,10 @@ angular
                 redirectTo:'/'
             })
     })
+.controller("getObjectCtrl", function($scope, $http){
+
+    $http.post("gObjects.json").success(function(data, status,headers,config){
+        $scope.gObjects = data;
+
+    })
+});

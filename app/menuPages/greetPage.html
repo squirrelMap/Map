@@ -1,10 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html ng-app="moderatorApp">
 <head>
     <meta charset="UTF-8">
+    <script src="../routingModScript.js"></script>
     <title></title>
 </head>
 <body>
- <p> Welcome to the SqM</p>
+ <div ng-controller="getObjectCtrl">
+     <ul>
+ <li ng-repeat="gObject in gObjects">
+
+     <p>{{gObject.name}}</p>
+     <p>{{gObject.position}}</p>
+     <p>{{gObject.positionN}}</p>
+
+     </li>
+     </ul>
+     </div>
+ <script src="../routingModScript.js"></script>
 </body>
 </html>
