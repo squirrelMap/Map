@@ -1,22 +1,12 @@
-<!DOCTYPE html>
-<html ng-app="moderatorApp">
-<head>
-    <meta charset="UTF-8">
-    <script src="../routingModScript.js"></script>
-    <title></title>
-</head>
-<body>
- <div ng-controller="getObjectCtrl">
-     <ul>
- <li ng-repeat="gObject in gObjects">
 
-     <p>{{gObject.name}}</p>
-     <p>{{gObject.position}}</p>
-     <p>{{gObject.positionN}}</p>
+ <div ng-controller="PlaceListCtrl">
+     <ul>
+ <li ng-repeat="place in places">
+
+     <p>{{place.name}}</p>
+     <p>{{place.position}}</p>
+     <p>{{place.positionN}}</p>
 
      </li>
      </ul>
      </div>
- <script src="../routingModScript.js"></script>
-</body>
-</html>

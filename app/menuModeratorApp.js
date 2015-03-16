@@ -1,11 +1,7 @@
-/**
- * Created by alexey on 01.03.15.
- */
-'use strict';
 
-angular
-    .module('menuApp', ['ngRoute'])
-    .config(function($routeProvider){
+ var menuApp =  angular.module('menuApp', [
+        'ngRoute']);
+     menuApp.config(function($routeProvider){
         $routeProvider
             .when("/",{
                 templateUrl:'../menuPages/greetPage.html'
@@ -20,11 +16,4 @@ angular
             .otherwise({
                 redirectTo:'/'
             })
-    })
-.controller("getObjectCtrl", function($scope, $http){
-
-    $http.post("gObjects.json").success(function(data, status,headers,config){
-        $scope.gObjects = data;
-
-    })
-});
+    });
