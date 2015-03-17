@@ -1,5 +1,7 @@
 # Squirrel Map
 
+[![Join the chat at https://gitter.im/squirrelMap/Map](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/squirrelMap/Map?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Мета проекту:
 Створити інтерактивну web мапу КПІ, що вміє масштабувати свій інтерфейс на різну роздільну здатність екранів (ПК, планшети, смартфони та ін.).
 
