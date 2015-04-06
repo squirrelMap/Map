@@ -16,7 +16,8 @@
 
     "angular-route": "latest",
     "angular-loader": "latest",
-    "angular-mocks": "~latest",
+    "angular-resource": "latest",
+    "angular-mocks": "latest",
     "html5-boilerplate": "~4.3.0",
     "foundation": "~5.5.1"
   }
