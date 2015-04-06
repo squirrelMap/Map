@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Map
 
 a [Sails](http://sailsjs.org) application
@@ -54,4 +53,3 @@ a [Sails](http://sailsjs.org) application
 `npm install`  
 `npm start`
 
->>>>>>> origin/master
