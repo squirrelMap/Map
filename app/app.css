@@ -1,0 +1,96 @@
+/* app css stylesheet */
+#header {
+  font-family: arial, helvetica, sans-serif;
+  text-align: center;
+  background-color: #22A7F0;
+  border: 0.2em solid #34495E;
+  margin-top: -0em;
+}
+#header h2 {
+  text-align: right;
+}
+img {
+  width: 300px;
+  heihgt: 300px;
+  background-color: rgba(230,126,34,0.5);
+  border-radius: 100%;
+  margin: -1em;
+  padding: 0;
+}.leftTop img:hover {
+  background-color: rgba(231, 76, 60, 0.9);
+}
+.leftBottom img:hover {
+  background-color: rgba(46, 204, 113, 0.9);
+}
+.rightTop img:hover {
+  background-color: rgba(245, 215, 110, 0.9);
+}
+.rightBottom img:hover {
+  background-color: rgba(89, 171, 227, 0.9);
+}
+ img:hover {
+
+  animation-name: spin;
+  animation-duration: 600ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  z-index: 100;
+
+  -webkit-animation-name: spin;
+  -webkit-animation-duration: 600ms;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: spin;
+  -moz-animation-duration: 600ms;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+  animation-name: spin;
+  animation-duration: 600ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+@-ms-keyframes spin {
+  from { -ms-transform: rotate(0deg); }
+  to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+  from { -moz-transform: rotate(0deg); }
+  to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+  from { -webkit-transform: rotate(0deg); }
+  to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }
+
+}
+@keyframes spin {
+  from {
+    transform:rotate(0deg);
+  }
+  to {
+    transform:rotate(360deg);
+  }
+}
+#r {
+  margin-top: 2em;
+}
+#repeat{
+  margin: 0em 27% 0 27%;
+  list-style-type: none;
+  padding: 0.5em;
+}
+.leftBottom {
+  float: left;
+}
+.leftTop{
+  float:left;
+}
+
+li { margin: -1em 0 0 0;}
