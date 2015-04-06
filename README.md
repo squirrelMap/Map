@@ -1,7 +1,3 @@
-# Map
-
-a [Sails](http://sailsjs.org) application
-=======
 # Squirrel Map
 
 ## Мета проекту:
