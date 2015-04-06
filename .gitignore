@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ################################################
 ###############  .gitignore   ##################
 ################################################
@@ -117,9 +116,7 @@ npm-debug.log
 nbproject
 .idea
 .node_history
-=======
-/bower_components/*
-/.sass-cache/*
-*.DS_Store
+
+
 /stylesheets/*
->>>>>>> origin/master
+
