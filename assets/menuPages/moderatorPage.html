@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>SquirrelMap</title>
+    <link rel="stylesheet" href="/stylesheets/app.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <!--<link rel="stylesheet" href="../bower_components/nvd3/nv.d3.css">
+
+    <link rel="stylesheet" href="../stylesheets/myStyle.css"> -->
+
+
+    <link rel="stylesheet" href="/stylesheets/menuStyle.css">
+
+</head>
+<body>
+<div class="medium-12 columns" id="header">
+
+
+    <div class="large-4 columns" id="logo">
+
+        <h1><img src="/pictures/LogoSmall.jpg"/></h1>
+    </div>
+
+
+</div>
+
+
+
+<div class="large-2 column">
+    <ul class="myButtons" class="button-group">
+        <li><a href="#/" class="button">Мапа</a></li>
+        <li><a href="#/page1" class="button">Користувачи</a></li>
+        <li><a href="#/page2" class="button">Page2</a></li>
+    </ul>
+</div>
+
+<div class="large-8 column">
+<ng-view></ng-view>
+</div>
+<script src="/bower_components/requirejs/require.js" data-main="../js/main.js"></script>
+</body>
+</html>
