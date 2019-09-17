@@ -27,7 +27,7 @@
 - bower (front-end dependencies)
 - foundation
 
-
+  
 
 ## Як склонити проект
 Це детально розписано у [цій статті](https://help.github.com/articles/fork-a-repo/).
