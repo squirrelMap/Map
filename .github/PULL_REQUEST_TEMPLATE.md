@@ -1,7 +1,7 @@
 ---
 name: 🚀 Feature Request
 about: I have a suggestion (and may want to implement it 🙂)!
-
+labels: feature
 ---
 
 Issue: https://org_name_in_jira.atlassian.net/browse/INFRA-
